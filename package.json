@@ -459,5 +459,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandreMoraes12/automacao-cypress.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AlexandreMoraes12/automacao-cypress/issues"
+  },
+  "homepage": "https://github.com/AlexandreMoraes12/automacao-cypress#readme"
 }
